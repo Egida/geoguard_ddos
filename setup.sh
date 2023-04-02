@@ -1,0 +1,1 @@
+unzip CFBypass.zip && unzip fivem.zip && unzip geoguard_load.zip && unzip geoguard_tls.zip && unzip http2.zip && unzip httpfuzz.zip && unzip httpbypassv2.zip && unzip HTTP-RAND.zip && unzip HTTP-RAW.zip && unzip HTTP-SOCKETS.zip && unzip paradox-tls.zip && unzip socket.zip && unzip tls.zip && unzip tlsv3.zip && unzip socketv4.zip && unzip udp.zip;
